@@ -77,6 +77,11 @@ const About = () => {
                   <span className="w-2 h-2 rounded-full bg-primary mt-2 mr-3 flex-shrink-0"></span>
                   Fragmented communication within university communities
                 </li>
+                <li className="flex items-start">
+                  <span className="w-2 h-2 rounded-full bg-primary mt-2 mr-3 flex-shrink-0"></span>
+                  Justice Added
+                </li>
+
               </ul>
             </div>
             <div>
